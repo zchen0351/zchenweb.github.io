@@ -1,8 +1,8 @@
 ---
 title: 'Social Support Buffers Stress Effects on Mental Health: Evidence from Daily Diary Study'
 authors:
-- Your Name
-- Advisor Name
+- admin
+author: 'Your Name, Advisor Name'
 date: '2023-06-01'
 publishDate: '2023-06-01T00:00:00Z'
 publication_types:

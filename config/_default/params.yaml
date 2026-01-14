@@ -4,11 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance - Choose a color theme
-# Options: emerald, ocean, forest, dark, minimal, mr robot, strawberry, coffee, rose, etc.
+# Available options: blue, cyan, emerald, teal, rose, zinc, purple, red, green, indigo, sky
 # See full list: https://docs.hugoblox.com/getting-started/customization/#appearance
 appearance:
   mode: system
-  color: ocean
+  color: cyan
 
 # SEO
 marketing:

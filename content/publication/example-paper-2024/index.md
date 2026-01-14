@@ -1,9 +1,8 @@
 ---
 title: 'Personality Traits and Health Behavior Change: A Longitudinal Study'
 authors:
-- Your Name
-- Collaborator Name
-- Senior Researcher
+- admin
+author: 'Your Name, Collaborator Name, Senior Researcher'
 date: '2024-03-01'
 publishDate: '2024-03-01T00:00:00Z'
 publication_types:

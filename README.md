@@ -89,7 +89,17 @@ go version
 
 You should see Go version 1.19 or higher.
 
-### 3. Preview Your Site Locally
+### 3. Download Theme Modules
+
+Before running the site for the first time, download the required theme modules:
+
+```bash
+hugo mod get -u
+```
+
+This downloads the Hugo Blox theme components (only needed once).
+
+### 4. Preview Your Site Locally
 
 ```bash
 hugo server

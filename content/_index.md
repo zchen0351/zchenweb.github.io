@@ -9,27 +9,14 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: about.avatar
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: geometric.png
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
 
   - block: markdown
     content:
@@ -62,7 +49,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: card
 
   - block: collection
     id: projects
@@ -74,7 +61,7 @@ sections:
         folders:
           - project
     design:
-      view: showcase
+      view: card
       columns: 2
 
   - block: collection
@@ -96,7 +83,7 @@ sections:
       offset: 0
       order: desc
     design:
-      view: date-title-summary
+      view: compact
       spacing:
         padding: [0, 0, 0, 0]
 ---

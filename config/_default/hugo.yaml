@@ -10,6 +10,9 @@ title: Your Name
 # For GitHub Pages: https://yourusername.github.io/
 baseURL: 'https://yourusername.github.io/'
 
+# Google Analytics (optional - leave empty if not using)
+googleAnalytics: ''
+
 ############################
 ## LANGUAGE
 ############################
@@ -37,7 +40,7 @@ permalinks:
   authors: '/author/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos

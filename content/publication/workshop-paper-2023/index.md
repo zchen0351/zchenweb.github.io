@@ -1,8 +1,8 @@
 ---
 title: 'Cultural Differences in Emotional Expression and Well-Being'
 authors:
-- Your Name
-- International Collaborator
+- admin
+author: 'Your Name, International Collaborator'
 date: '2023-02-01'
 publishDate: '2023-02-01T00:00:00Z'
 publication_types:

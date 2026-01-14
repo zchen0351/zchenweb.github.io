@@ -26,7 +26,14 @@ hugo version  # Should show 0.136.5 or higher
 go version    # Should show 1.19 or higher
 ```
 
-## 2. Preview Locally
+## 2. Download Theme Modules
+
+First time only - download the theme:
+```bash
+hugo mod get -u
+```
+
+## 3. Preview Locally
 
 ```bash
 hugo server
@@ -34,7 +41,7 @@ hugo server
 
 Open http://localhost:1313 in your browser.
 
-## 3. Personalize (Minimum Changes)
+## 4. Personalize (Minimum Changes)
 
 Edit these 3 files:
 
@@ -62,7 +69,7 @@ header:
 ### Replace your photo
 Replace `content/authors/admin/avatar.jpg` with your photo.
 
-## 4. Add Your Content
+## 5. Add Your Content
 
 ### Publications
 Add to `publications.bib` then run:
@@ -79,7 +86,7 @@ Create folders in `content/post/` (see examples)
 ### Teaching
 Create folders in `content/teaching/` (see examples)
 
-## 5. Deploy to GitHub Pages
+## 6. Deploy to GitHub Pages
 
 ```bash
 # Create a repo named: yourusername.github.io

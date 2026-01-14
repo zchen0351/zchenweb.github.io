@@ -10,22 +10,17 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: experience
     content:
+      # Choose a username to display experience for (a folder name within `content/authors/`)
       username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
+  - block: skills
     content:
       title: Skills
+      # Choose a username to display skills for (a folder name within `content/authors/`)
       username: admin
-    design:
-      show_skill_percentage: true
-  # Uncomment to show awards section
-  # - block: resume-awards
+  # Uncomment to show accomplishments/awards section
+  # - block: accomplishments
   #   content:
   #     title: Awards
   #     username: admin
