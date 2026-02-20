@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Your Name
+title: Ziyuan Chen
 
 # Full name (for SEO)
-first_name: Your
-last_name: Name
+first_name: Ziyuan
+last_name: Chen
 
 # Status emoji (optional - delete if you don't want one)
 status:
@@ -17,7 +17,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student in Psychology
+role: PhD Student in Psychology 
+# 如果是academia job的话写current role. Industry的话写job title
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,11 +32,11 @@ profiles:
     url: 'mailto:your.email@uoregon.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/yourusername
+    url: https://github.com/zchen0351
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yourprofile
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=YOURSCHOLARID
+    url: https://scholar.google.com/citations?user=ZLfkKHsAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0000-0000-0000
 
@@ -48,12 +49,12 @@ interests:
 education:
   - area: PhD Psychology
     institution: University of Oregon
-    date_start: 2021-09-01
+    date_start: 2024-09-23
     date_end: ''
     summary: |
       Research on social cognition and health behavior change.
-      Advised by Prof. Advisor Name.
-  - area: BA Psychology
+      Advised by Dr. Deepu Murty.
+  - area: BS Cognitive Science 
     institution: Undergraduate University
     date_start: 2017-09-01
     date_end: 2021-05-31
@@ -66,7 +67,7 @@ work:
     company_name: University of Oregon
     company_url: ''
     company_logo: ''
-    date_start: 2021-09-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |
       Responsibilities include:
@@ -115,7 +116,7 @@ skills:
 
 ## About Me
 
-I am a PhD student in Psychology at University Name, working with Prof. Advisor Name. My research examines how social and psychological factors influence health behavior and well-being. I use a combination of experimental methods, surveys, and longitudinal designs to understand these processes.
+I am a PhD student in Psychology at University of Oregon, working with Dr. Deepu Murty. My research examines how social and psychological factors influence health behavior and well-being. I use a combination of experimental methods, surveys, and longitudinal designs to understand these processes.
 
 I am particularly interested in how personality traits and social relationships shape health outcomes over time. My current projects investigate stress, coping, and resilience in diverse populations.
 
